@@ -1,0 +1,9 @@
+﻿{
+  "invalidCardNumber": "2114 6178 9652 1211",
+  "validCardNumber": "5114 6178 9652 1211",
+  "invalidExpires": "12 / 18",
+  "validExpires": "12 / 25",
+  "invalidCVC": "1",
+  "validCVC": "365",
+  "zipCode": "110082"
+}
